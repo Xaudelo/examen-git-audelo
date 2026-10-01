@@ -1,0 +1,4 @@
+Funcionalidad: Login de usuarios 
+Desarrollador: Audelo
+Descripcion: Permite iniciar sesion a los usuarios en un sistema
+Fecha: 01/10/2026
